@@ -8,7 +8,6 @@ I work on Website , Software , Backend and analysis of any projects to make them
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
