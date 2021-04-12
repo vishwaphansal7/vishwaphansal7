@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github.com/vishwaphansal7/vishwaphansal7/main/banner1.png)
+(https://github.com/vishwaphansal7/vishwaphansal7/main/images/banner1.png)
 
 ### Hi there 👋, My Name is Vishwa Phansal
 #### I am Full Stack Developer
