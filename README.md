@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-(banner1.png)
-
 ### Hi there 👋, My Name is Vishwa Phansal
 #### I am Full Stack Developer
 
