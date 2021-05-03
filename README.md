@@ -150,8 +150,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishwaphansal7)  
-
 ![GitHub metrics](https://metrics.lecoq.io/vishwaphansal7) 
 
 
