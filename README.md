@@ -4,6 +4,7 @@
 #### I am Full Stack Developer
 
 
+![Profile views](https://gpvc.arturio.dev/vishwaphansal7)
 
 I work on Website , Software , Backend and analysis of any projects to make them better and optimize them.
 
@@ -45,7 +46,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishwaphansal7)  
 
-![Profile views](https://gpvc.arturio.dev/vishwaphansal7)
 
 
 
