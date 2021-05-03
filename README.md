@@ -31,6 +31,16 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<!-- GitHub Readme Streak Stats - https://github.com/vishwaphansal7/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/vishwaphansal7/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishwa Phansal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
