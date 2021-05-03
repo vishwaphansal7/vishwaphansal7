@@ -32,6 +32,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+## 🔥 Streak stats
+
 <!-- GitHub Readme Streak Stats - https://github.com/vishwaphansal7/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/vishwaphansal7/github-readme-streak-stats">
