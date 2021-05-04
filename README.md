@@ -130,11 +130,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📊 **This Week I Spent My Time On:**
 
-![Vishwa GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwaphansal7&show_icons=true&theme=radical)
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/vishwaphansal7/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/vishwaphansal7/github-stats-transparent/output/generated/languages.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaphansal7&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+</a>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)  
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)  
 
 
 
