@@ -133,8 +133,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwaphansal7&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaphansal7&langs_count=8&theme=synthwave)](https://github.com/vishwaphansal7/github-readme-stats)
-
-[![Vishwa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishwaphansal7&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  
 [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)  
 
