@@ -130,7 +130,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📊 **This Week I Spent My Time On:**
 
-![Vishwa GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwaphansal7&show_icons=true&theme=dark)
+![Vishwa GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwaphansal7&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaphansal7&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
  
