@@ -136,7 +136,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)  
 
-![GitHub metrics](https://metrics.lecoq.io/vishwaphansal7) 
+
 
 
 
