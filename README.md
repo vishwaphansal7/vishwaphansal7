@@ -131,14 +131,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaphansal7&layout=compact&langs_count=8&theme=synthwave)](https://github.com/vishwaphansal7/github-readme-stats)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/vishwaphansal7/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="VishwaPhansal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)](https://github.com/vishwaphansal7/github-readme-activity-graph)
+    
+ [![github activity graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)](https://github.com/vishwaphansal7/github-readme-activity-graph)
 
 
 
