@@ -136,7 +136,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="VishwaPhansal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaphansal7&theme=monokai-metallian&hide_border=true"/>
   </a>
     
- [![github activity graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)](https://github.com/vishwaphansal7/github-readme-activity-graph)
+ [![github activity graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true")](https://github.com/vishwaphansal7/github-readme-activity-graph)
 
 
 
