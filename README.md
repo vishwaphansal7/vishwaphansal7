@@ -123,7 +123,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaphansal7&layout=compact&langs_count=8&theme=synthwave)](https://github.com/vishwaphansal7/github-readme-stats)
 
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)  
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=vishwaphansal7)](https://github.com/vishwaphansal7/github-readme-activity-graph)
+
 
 
 
