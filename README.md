@@ -29,7 +29,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
-
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aassembly"><img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -57,9 +56,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
-
 ### 🧰 Frameworks and libraries
-
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
@@ -83,7 +80,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 
 ### 🗄️ Databases and cloud hosting
-
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -98,7 +94,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 
 ### 💻 Software and tools
-
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -121,7 +116,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
 📊 **This Week I Spent My Time On:**
 ![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwaphansal7&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaphansal7&layout=compact&langs_count=8&theme=synthwave)](https://github.com/vishwaphansal7/github-readme-stats)
