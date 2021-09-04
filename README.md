@@ -38,7 +38,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 </p>
-### 🧰 Frameworks and libraries
+🧰 Frameworks and libraries
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
@@ -60,8 +60,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
-
-### 🗄️ Databases and cloud hosting
+ 🗄️ Databases and cloud hosting
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -75,7 +74,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+💻 Software and tools
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
