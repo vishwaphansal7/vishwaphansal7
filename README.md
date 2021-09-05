@@ -11,7 +11,7 @@
 
 I work on Website , Software , Backend and analysis of any projects to make them better and optimize them.
 
-Skills: VUE JS / REACT / JS / HTML / CSS /Angular
+Skills: HTML /CSS /VUE JS / REACT / JS / HTML / CSS /Angular
 
 ## 📫 How to reach me:
   
