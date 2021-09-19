@@ -50,7 +50,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="#"><img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%233C9CD7.svg?logo=jekyll&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%23111111.svg?logo=symfony&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
