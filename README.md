@@ -29,8 +29,7 @@
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/vishwaphansal7/vishwaphansal7/blob/main/code.gif?raw=true" width="500" height="320" />
-  
+<img align="right" alt="GIF" src="https://github.com/vishwaphansal7/vishwaphansal7/blob/main/code.gif?raw=true" width="400" height="320" />
 <p align="left"
 <a href="https://app.daily.dev/vishwaphansal7"><img src="https://api.daily.dev/devcards/fae1ad76e8f64d189a9784f9df27ed19.png?r=21l" width="350" alt="Vishwa Phansal's Dev Card"/></a>
 
