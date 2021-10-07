@@ -32,7 +32,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/vishwaphansal7/vishwaphansal7/blob/main/code.gif?raw=true" width="500" height="320" />
   
 <p align="left"
-<a href="https://app.daily.dev/vishwaphansal7"><img src="https://api.daily.dev/devcards/fae1ad76e8f64d189a9784f9df27ed19.png?r=21l" width="400" alt="Vishwa Phansal's Dev Card"/></a>
+<a href="https://app.daily.dev/vishwaphansal7"><img src="https://api.daily.dev/devcards/fae1ad76e8f64d189a9784f9df27ed19.png?r=21l" width="350" alt="Vishwa Phansal's Dev Card"/></a>
 
 ## 🛠️ My favorite tools
 
