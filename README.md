@@ -9,12 +9,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/vishwaphansal7)
 
-<p align="right"
-<a href="https://app.daily.dev/vishwaphansal7"><img src="https://api.daily.dev/devcards/fae1ad76e8f64d189a9784f9df27ed19.png?r=21l" width="400" alt="Vishwa Phansal's Dev Card"/></a>
 
 ## 📫 How to reach me:
 
-<p align="left">
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/rpg19952/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/vishwap026)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/phansalv)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vishwaphansal7/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/vishwap/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/vishwa_codes/)  &nbsp; <a href="mailto:vishwaphansal7@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 **Languages and Tools:**  
@@ -33,6 +30,9 @@
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img align="right" alt="GIF" src="https://github.com/vishwaphansal7/vishwaphansal7/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+<p align="right"
+<a href="https://app.daily.dev/vishwaphansal7"><img src="https://api.daily.dev/devcards/fae1ad76e8f64d189a9784f9df27ed19.png?r=21l" width="400" alt="Vishwa Phansal's Dev Card"/></a>
 
 ## 🛠️ My favorite tools
 
