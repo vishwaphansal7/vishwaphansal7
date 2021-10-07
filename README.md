@@ -9,6 +9,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/vishwaphansal7)
 
+<p align="right"
 <a href="https://app.daily.dev/vishwaphansal7"><img src="https://api.daily.dev/devcards/fae1ad76e8f64d189a9784f9df27ed19.png?r=21l" width="400" alt="Vishwa Phansal's Dev Card"/></a>
 
 ## 📫 How to reach me:
